@@ -18,9 +18,9 @@ o	The SVM model had the highest accuracy at 96%, making it the best model for pr
 5.	Hyperparameter Tuning: GridSearchCV was used to optimize the models for the best performance.
 ##Results
 The Support Vector Machine (SVM) model was chosen as the final model for predicting Falcon 9 landings. It achieved an accuracy of approximately 96% and had zero false negatives, making it highly reliable for this task.
-##Requirements
+Requirements
 
-##The following libraries are required to run this project:
+The following libraries are required to run this project:
 
 •	Pandas
 
