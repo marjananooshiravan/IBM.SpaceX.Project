@@ -23,9 +23,13 @@ The Support Vector Machine (SVM) model was chosen as the final model for predict
 ##The following libraries are required to run this project:
 
 •	Pandas
+
 •	NumPy
+
 •	Matplotlib
+
 •	Seaborn
+
 •	Scikit-learn
 
 •	The Support Vector Machine (SVM) model is the most accurate model for predicting successful Falcon 9 landings, achieving 96% accuracy.
