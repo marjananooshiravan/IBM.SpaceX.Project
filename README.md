@@ -4,9 +4,9 @@ Overview
 This project focuses on predicting whether the first stage of SpaceX's Falcon 9 rocket will successfully land. SpaceX reduces launch costs by reusing the first stage of their rockets. The ability to accurately predict successful landings is critical for minimizing costs and making informed decisions in the space launch industry. The dataset used for this project was sourced from Kaggle.
 Project Structure
 ## The project involves several key steps:
-1.	##Data Preprocessing##: The dataset was cleaned and prepared for analysis.
-2.	##Feature Engineering##: Additional features were created to improve model performance.
-3.	##Model Selection##: Four supervised learning models were tested to determine the best one:
+1.	Data Preprocessing: The dataset was cleaned and prepared for analysis.
+2.	Feature Engineering: Additional features were created to improve model performance.
+3.	Model Selection: Four supervised learning models were tested to determine the best one:
 o	K-Nearest Neighbors (KNN)
 o	Decision Tree
 o	Logistic Regression
@@ -21,6 +21,7 @@ The Support Vector Machine (SVM) model was chosen as the final model for predict
 ##Requirements
 
 ##The following libraries are required to run this project:
+
 •	Pandas
 •	NumPy
 •	Matplotlib
