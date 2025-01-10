@@ -11,7 +11,7 @@ o	K-Nearest Neighbors (KNN)
 o	Decision Tree
 o	Logistic Regression
 o	Support Vector Machine (SVM)
-## 4.	Model Evaluation:
+## Model Evaluation:
 o	The main goal was to minimize false negatives (Type II errors), as predicting a successful landing when one fails can have significant financial consequences.
 o	Both Decision Tree and Support Vector Machine models achieved zero false negatives.
 o	The SVM model had the highest accuracy at 96%, making it the best model for predicting successful Falcon 9 landings.
